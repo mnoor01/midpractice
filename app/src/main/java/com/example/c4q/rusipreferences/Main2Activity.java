@@ -19,4 +19,7 @@ public class Main2Activity extends AppCompatActivity {
         view01.setText(string);
         Toast.makeText(this,"hi, intents and preferences are important",Toast.LENGTH_LONG).show();
     }
-}
+}// right now I am going to create a branch by git checkout -b branchname
+//then push to that branch
+// I am creating a second branch
+//jibwdifjbnweojfnojwernfoenrofu
